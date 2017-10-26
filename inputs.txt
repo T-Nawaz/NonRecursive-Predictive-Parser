@@ -1,0 +1,4 @@
+inputString=bcba
+aAa | BAa |    | e
+e   | bA  | cA | 
+    | b   |    |  
